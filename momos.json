@@ -1,0 +1,94 @@
+{
+  "menu": [
+    {
+      "type": "Steamed Momos",
+      "items": [
+        {
+          "name": "Veggie Momo",
+          "price": 5000,
+          "veg": true
+        },
+        {
+          "name": "Paneer Momo",
+          "price": 8000,
+          "veg": true
+        },
+        {
+          "name": "Mushroom Momo",
+          "price": 4000,
+          "veg": true
+        },
+        {
+          "name": "Corn and Cheese Momo",
+          "price": 6000,
+          "veg": true
+        },
+        {
+          "name": "Chicken Momo",
+          "price": 8000,
+          "veg": false
+        },
+        {
+          "name": "Chicken Schezwan Momo",
+          "price": 9000,
+          "veg": false
+        },
+        {
+          "name": "Chicken and Cheese Momo",
+          "price": 10000,
+          "veg": false
+        },
+        {
+          "name": "Fish Momo",
+          "price": 4000,
+          "veg": false
+        }
+      ]
+    },
+    {
+      "type": "Fried Momos",
+      "items": [
+        {
+          "name": "Veggie Fried Momo",
+          "price": 4000,
+          "veg": true
+        },
+        {
+          "name": "Paneer Fried Momo",
+          "price": 8000,
+          "veg": true
+        },
+        {
+          "name": "Mushroom Fried Momo",
+          "price": 5000,
+          "veg": true
+        },
+        {
+          "name": "Corn Cheese Fried Momo",
+          "price": 7000,
+          "veg": true
+        },
+        {
+          "name": "Chicken Fried Momo",
+          "price": 9000,
+          "veg": false
+        },
+        {
+          "name": "Chicken Schezwan Fried Momo",
+          "price": 12000,
+          "veg": false
+        },
+        {
+          "name": "Chicken Cheese Fried Momo",
+          "price": 13000,
+          "veg": false
+        },
+        {
+          "name": "Fish Fried Momo",
+          "price": 6000,
+          "veg": false
+        }
+      ]
+    }
+  ]
+}

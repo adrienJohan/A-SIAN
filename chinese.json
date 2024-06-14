@@ -1,0 +1,43 @@
+{
+    "menu": [
+      {
+        "type": "Rice and Noodles",
+        "items": [
+          { "name": "Veg Hakka Noodles", "veg": true, "price": 10000 },
+          { "name": "Chilli Garlic Noodles", "veg": true, "price": 12000 },
+          { "name": "Steamed Rice", "veg": true, "price": 8000 },
+          { "name": "Corn Fried Rice", "veg": true, "price": 15000 },
+          { "name": "Chicken Hakka Noodles", "veg": false, "price": 14000 },
+          { "name": "Chicken Garlic Noodles", "veg": false, "price": 15000 },
+          { "name": "Chicken Fried Rice", "veg": false, "price": 15000 },
+          { "name": "Mix Meat Fried Rice", "veg": false, "price": 20000 }
+        ]
+      },
+      {
+        "type": "Appetizers",
+        "items": [
+          { "name": "Chilli Potato", "veg": true, "price": 17000 },
+          { "name": "Veg Spring Roll", "veg": true, "price": 18000 },
+          { "name": "Chilli Paneer", "veg": true, "price": 18500 },
+          { "name": "Chicken Spring Roll", "veg": false, "price": 20000 },
+          { "name": "Crispy Honey Chicken", "veg": false, "price": 25000 },
+          { "name": "Cantonese Spring Rolls", "veg": false, "price": 40000 },
+          { "name": "Baked Chicken Wings", "veg": false, "price": 42000 },
+          { "name": "Crab Rangoon", "veg": false, "price": 50000 }
+        ]
+      },
+      {
+        "type": "Main Course",
+        "items": [
+          { "name": "Veg Garlic Sauce", "veg": true, "price": 25000 },
+          { "name": "Potato Garlic Sauce", "veg": true, "price": 25000 },
+          { "name": "Mixed Vegetable Sauce", "veg": true, "price": 27000 },
+          { "name": "Stir Fried Asian Green", "veg": true, "price": 27000 },
+          { "name": "Burnt Garlic Rice", "veg": true, "price": 34000 },
+          { "name": "Creamy Noodles", "veg": true, "price": 15000 },
+          { "name": "Shredded Chicken", "veg": false, "price": 60000 }
+        ]
+      }
+    ]
+  }
+  

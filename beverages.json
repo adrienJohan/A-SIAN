@@ -1,0 +1,27 @@
+{
+    "menu": [
+      {
+        "type": "Soups",
+        "items": [
+          { "name": "Veg Manchow", "veg": true, "price": 10000 },
+          { "name": "Sweet Corn", "veg": true, "price": 10000 },
+          { "name": "Hot 'N' Sour", "veg": true, "price": 10000 },
+          { "name": "Chicken Manchow", "veg": false, "price": 12000 },
+          { "name": "Chicken Sweet Corn", "veg": false, "price": 12000 },
+          { "name": "Chicken Hot 'N' Sour", "veg": false, "price": 12000 }
+        ]
+      },
+      {
+        "type": "Mocktails",
+        "items": [
+          { "name": "Midnight Beauty", "veg": true, "price": 10000 },
+          { "name": "Mojito", "veg": true, "price": 12000 },
+          { "name": "Pink Lemonade", "veg": true, "price": 14000 },
+          { "name": "Silver Lining", "veg": true, "price": 14000 },
+          { "name": "Sweet Memories", "veg": true, "price": 12000 },
+          { "name": "Virgin Mojito", "veg": true, "price": 13000 }
+        ]
+      }
+    ]
+  }
+  
